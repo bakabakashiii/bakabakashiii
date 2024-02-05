@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 I'm a computer science student who wants to improve himself everyday.
 
 * 🔭  I’m currently working on simple python projects.
-* 🌱 I'm currently learning Python, Algorithm and Data Science
+* 🌱 I'm currently learning Python, Algorithms/Data Structures
 * 🤝  I'm open to collaborating on every python project.
 
 ### Skills
